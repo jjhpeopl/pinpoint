@@ -1,4 +1,5 @@
 ![Pinpoint](web/src/main/webapp/images/logo.png)
+全链路监控。。。。。。。
 
 [![Build Status](https://travis-ci.org/naver/pinpoint.svg?branch=master)](https://travis-ci.org/naver/pinpoint)
 
